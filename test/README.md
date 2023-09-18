@@ -4,5 +4,5 @@
 * [Katzenrassen](./Katzenrassen.md)
 
 ## Hunde
-* [Hunderassen](./Hunderassen.pdf)
+* [Hunderassen](./Hunderassen.md)
 
