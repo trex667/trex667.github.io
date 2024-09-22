@@ -1,6 +1,8 @@
 # Sammlung von Informationen rund um sichere Passwörter
 
-* Informationen vom *Bundesamt für Sicherheit in der Informationstechnik (BSI)*
+* Informationen vom *Bundesamt für Sicherheit in der Informationstechnik* (BSI)
   * [Sichere Passwörter erstellen](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html)
+  * [Zwei-Faktor-Authentifizierung (2FA)](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Zwei-Faktor-Authentisierung/zwei-faktor-authentisierung_node.html)
+    * Auch unter dem Begriff Mehr-Faktor-Authentifizierung (MFA) bekannt
   * [Passkeys: anmelden ohne Passwort](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Passkeys/passkeys-anmelden-ohne-passwort_node.html)
   * [Passwörter verwalten mit einem Passwort-Manager](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Passwort-Manager/passwort-manager_node.html)
